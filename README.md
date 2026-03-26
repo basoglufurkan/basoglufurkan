@@ -68,7 +68,6 @@ A privacy-focused Instagram analytics tool targeting Gen Z users. Weekly subscri
 - ASO-optimized with **Apple Search Ads** campaigns
 - Localized for **English, French, Spanish (MX)**
 
-[![App Store](https://img.shields.io/badge/App%20Store-Download-000?style=flat-square&logo=apple)](https://apps.apple.com/app/id6755613192)
 
 ---
 
