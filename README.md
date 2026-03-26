@@ -17,7 +17,7 @@
 
 ## About
 
-iOS developer with **2.5+ years** of hands-on experience shipping production apps. I own the full lifecycle — architecture decisions, implementation, paywall design, ASO strategy, and post-launch analytics. Currently building a portfolio of subscription-based apps under **Mobapp Tech Inc.**
+iOS developer with **5+ years** of hands-on experience shipping production apps. I own the full lifecycle — architecture decisions, implementation, paywall design, ASO strategy, and post-launch analytics. Currently building a portfolio of subscription-based apps under **Mobapp Tech Inc.**
 
 - 🏗 Architecting with **MVVM-C + Clean Architecture** — separation of concerns is non-negotiable
 - 📦 Shipping **RevenueCat-powered** subscription monetization with real paying users
