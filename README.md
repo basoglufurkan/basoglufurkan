@@ -7,7 +7,7 @@
 
 *Building scalable, high-performance mobile apps — from architecture to the App Store.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/basoglufurkan))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/basoglufurkan)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:furkanbasogluu@gmail.com)
 [![App Store](https://img.shields.io/badge/App%20Store-000000?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com)
 
@@ -59,8 +59,7 @@ iOS developer with **2.5+ years** of hands-on experience shipping production app
 
 ## Featured Projects
 
-### 👀 Lurk — Instagram Follow Tracker
-> *Know who your crush follows. Know who unfollowed you.*
+### Instagram Analyzer
 
 A privacy-focused Instagram analytics tool targeting Gen Z users. Weekly subscription model with organic App Store growth.
 
