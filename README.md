@@ -100,19 +100,4 @@ Testability         →  every layer should be mockable
 
 > *"Clean architecture scales products. Good UX scales revenue."*
 
----
 
-## GitHub Stats
-
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=basoglufurkan&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=basoglufurkan&layout=compact&langs_count=6&theme=github_dark&hide_border=true&bg_color=0D1117"/>
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1C1C1E,100:0A0A0A&height=80&section=footer" width="100%"/>
-
-</div>
